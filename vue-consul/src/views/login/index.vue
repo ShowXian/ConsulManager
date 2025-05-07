@@ -93,7 +93,7 @@ export default {
       passwordType: 'password',
       loginlogo: '',
       loginbgimg: '',
-      logintitle: 'Welcome to TenSunS',
+      logintitle: 'Welcome to TC运维平台',
       isbig: true,
       height: '330',
       redirect: undefined
